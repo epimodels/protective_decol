@@ -1,4 +1,4 @@
-# protective_decol_
+# protective_decol
 ## Code Repository for "Assessing the Potential Impact of a Long-acting Skin Disinfectant in the Prevention of Methicillin-resistant Staphylococcus aureus Transmission"
 
 
